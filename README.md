@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fatihbektas
 - 👀 I’m interested in ML and Mobile Technologies
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
